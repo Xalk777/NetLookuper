@@ -1,5 +1,7 @@
 # NetLookuper
 
+<img width="512" height="512" alt="netlookuper_512" src="https://github.com/user-attachments/assets/c5fc3ab7-0c26-4f2f-a447-8d4d55a7e14f" />
+
 Бесплатная портативная утилита для Windows: сетевая диагностика в одном окне. Один файл `NetLookuper.exe`, без установки.
 
 **[⬇ Скачать последнюю версию](../../releases/latest)** · Windows 10/11, 64-бит · права администратора не нужны
